@@ -6,7 +6,7 @@ from urllib.parse import parse_qs
 
 
 # Bot credentials
-TOKEN = "7613426943:AAGuIuSYcHyEnew8NGPS10GfOH2hi0TwZpY"
+TOKEN = "token"
 BOT_USERNAME = "OurFunFusion_bot"
 
 # Dictionary to store user reference IDs and users per group (by reference ID)
