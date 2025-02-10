@@ -4,6 +4,7 @@ import uuid
 import random
 from urllib.parse import parse_qs
 
+
 # Bot credentials
 TOKEN = "token"
 BOT_USERNAME = "OurFunFusion_bot"
