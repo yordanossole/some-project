@@ -10,7 +10,7 @@ TOKEN = "token"
 BOT_USERNAME = "OurFunFusion_bot"
 
 # Dictionary to store user reference IDs and users per group (by reference ID)
-group_data = {}
+group_data = { }
 
 # async def start(update: Update, context: CallbackContext):
 #     await update.message.reply_text("Welcome! to THE Game")
