@@ -1,4 +1,4 @@
-#!/home/yordanos/Desktop/CPH/venv/bin/python3
+#!/home/yordanos/Downloads/python/mafia-game-bot/venv/bin/python3
 # -*- coding: utf-8 -*-
 import re
 import sys
